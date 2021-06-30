@@ -1,5 +1,6 @@
 import os
 
+WORD = 9
 MAX_X = 60
 MAX_Y = 20
 FRAME_LENGTH = 1/12
